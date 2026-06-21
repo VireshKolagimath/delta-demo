@@ -5,3 +5,6 @@ this is the learning repo for git and github.
 21st June 2026
 # Author
 Viresh K
+
+# Place
+Inida
